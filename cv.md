@@ -5,7 +5,7 @@ I enjoy building digital products that either solve problems or entertain people
 
 I'm self driven, hard working and easy going. I also hold a bachelors degree in economics.
 
-##Objective
+## Objective
 >To look for a job that will allow me to further improve my chosen career’s abilities and competences, and to be considered for a position despite the fact that I am a fresh graduate student.
 
 ## Experience:
