@@ -1,5 +1,5 @@
 # Sheldon Escriba
-Software Engineer • Application Developer • IT Support
+*>Software Engineer • Application Developer • IT Support*
 
 I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript or Python.
 
