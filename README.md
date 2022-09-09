@@ -1,62 +1,119 @@
-# Per Harald Borgen
-I'm a developer, with a background as a kids app entrepreneur.
+# Markdown Cheat Sheet
 
-I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript or Python.
+Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
-I'm self driven, hard working and easy going. I also hold a bachelors degree in economics.
+This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
 
-## Experience:
-### Founders & Coders (2015)
-In early 2015 I enrolled as a student at Founders & Coders in London. F&C is a 3 month intensive coding course with a focus on Javascript and Node JS. After graduation, I've worked with commercial clients, mostly building MVP's for startups.
+## Basic Syntax
 
-### Propell (2012 - 2014)
-After finishing my studies I founded a kids app startup named Propell, which I ran for 2.5 years as the CEO. Propell's childrens books, educational material and music apps have been downloaded over 1 million times by parents around the world. My responsibilities included management, marketing & PR, administration, accounting and everything else related to running a startup.
+These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
-### Mikrojobb (2011)
-While studying, I founded a Norwegian site to buy and sell micro services. Mikrojobb quickly grew to be the most popular of its kind in Norway and was aquired by NeedBox.com in 2013.
+### Heading
 
-## Projects I've coded:
-### Keyword King
-A webapp that instantly shows you your app's underperforming keywords in the App Store.
+# H1
+## H2
+### H3
 
-### Squish
-A service for students to help them remember and repeat their notes.
+### Bold
 
-Stupid Machine
-A machine learning tutorial on how to do image recognicion using Scikit Learn.
+**bold text**
 
-## Technical skills:
+### Italic
 
-**Languages:**
+*italicized text*
 
-* Javascript
-* Python
+### Blockquote
 
-**Front-end:**
+> blockquote
 
-* HTML
-* CSS & Sass
-* Jade
-* jQuery
-* Twitter Bootstrap
-* React JS & Flux
-* D3.js
+### Ordered List
 
-**Back-end:**
+1. First item
+2. Second item
+3. Third item
 
-* MongoDB
-* Node JS
-* Hapi
-* Django
+### Unordered List
 
-**Machine Learning / Data Science:**
+- First item
+- Second item
+- Third item
 
-* Scikit Learn
-* Numpy
-* Pandas
-* Matplotlib
+### Code
 
-**Testing:**
+`code`
 
-* Mocha
-* Qunit
+### Horizontal Rule
+
+---
+
+### Link
+
+[Markdown Guide](https://www.markdownguide.org)
+
+### Image
+
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
+
+## Extended Syntax
+
+These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+
+### Table
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+### Fenced Code Block
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+### Footnote
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+### Heading ID
+
+### My Great Heading {#custom-id}
+
+### Definition List
+
+term
+: definition
+
+### Strikethrough
+
+~~The world is flat.~~
+
+### Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+### Emoji
+
+That is so funny! :joy:
+
+(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
+
+### Highlight
+
+I need to highlight these ==very important words==.
+
+### Subscript
+
+H~2~O
+
+### Superscript
+
+X^2^
