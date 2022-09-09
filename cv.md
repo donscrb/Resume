@@ -5,6 +5,9 @@ I enjoy building digital products that either solve problems or entertain people
 
 I'm self driven, hard working and easy going. I also hold a bachelors degree in economics.
 
+##Objective
+>To look for a job that will allow me to further improve my chosen career’s abilities and competences, and to be considered for a position despite the fact that I am a fresh graduate student.
+
 ## Experience:
 ### Founders & Coders (2015)
 In early 2015 I enrolled as a student at Founders & Coders in London. F&C is a 3 month intensive coding course with a focus on Javascript and Node JS. After graduation, I've worked with commercial clients, mostly building MVP's for startups.
